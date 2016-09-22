@@ -1,4 +1,5 @@
 # dev
+- Add embedded elixir or eex language.
 - Add beautifier for the Lua language.
 - Add [ocp-indent](https://github.com/OCamlPro/ocp-indent) beautifier for the OCaml language.
 - Add [elm-format](https://github.com/avh4/elm-format) beautifier for the Elm language.
